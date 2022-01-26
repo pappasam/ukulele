@@ -1,4 +1,4 @@
-chords.pdf: chords.txt
+pdf/chords.pdf: chords.txt
 	enscript \
 		--font=Courier7 \
 		--landscape \
@@ -9,4 +9,4 @@ chords.pdf: chords.txt
 	@rm output.ps
 
 clean:
-	rm chords.pdf
+	rm pdf/chords.pdf
