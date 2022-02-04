@@ -2,17 +2,17 @@
 |    __    __   __  ___  __    __   __       _______  __       _______     | Key | 1  | 2   | 3   | 4  | 5  | 6   | 7     |  | Key | 1   | 2     | 3   | 4   | 5   | 6   | 7  |Assembled manually |
 |   |  |  |  | |  |/  / |  |  |  | |  |     |   ____||  |     |   ____|    |----------------------------------------------|  |------------------------------------------------|by Samuel Roeca.   |
 |   |  |  |  | |  '  /  |  |  |  | |  |     |  |__   |  |     |  |__       | C   | C  | Dm  | Em  | F  | G  | Am  | Bdim  |  | Cm  | Cm  | Ddim  | Eb  | Fm  | Gm  | Ab  | Bb |                   |
-|   |  |  |  | |    <   |  |  |  | |  |     |   __|  |  |     |   __|      | Db  | Db | Ebm | Fm  | Gb | Ab | Bbm | Cdim  |  | C#m | C#m | D#dim | E   | F#m | G#m | A   | B  |For use as a quick |
-|   |  `--'  | |  .  \  |  `--'  | |  `----.|  |____ |  `----.|  |____     | D   | D  | Em  | F#m | G  | A  | Bm  | Dbdim |  | Dm  | Dm  | Edim  | F   | Gm  | Am  | Bb  | C  |reference tool for |
+|   |  |  |  | |    <   |  |  |  | |  |     |   __|  |  |     |   __|      | Db  | Db | Ebm | Fm  | Gb | Ab | Bbm | Cdim  |  | Dbm | Dbm | Ebdim | E   | Gbm | Abm | A   | B  |For use as a quick |
+|   |  `--'  | |  .  \  |  `--'  | |  `----.|  |____ |  `----.|  |____     | D   | D  | Em  | Gbm | G  | A  | Bm  | Dbdim |  | Dm  | Dm  | Edim  | F   | Gm  | Am  | Bb  | C  |reference tool for |
 |    \______/  |__|\__\  \______/  |_______||_______||_______||_______|    | Eb  | Eb | Fm  | Gm  | Ab | Bb | Cm  | Ddim  |  | Ebm | Ebm | Fdim  | Gb  | Abm | Bbm | Cb  | Db |GCEA-tuned Ukulele |
-|                                                                          | E   | E  | F#m | G#m | A  | B  | C#m | Ebdim |  | Em  | Em  | F#dim | G   | Am  | Bm  | C   | D  |chord lookup.      |
+|                                                                          | E   | E  | Gbm | Abm | A  | B  | Dbm | Ebdim |  | Em  | Em  | Gbdim | G   | Am  | Bm  | C   | D  |chord lookup.      |
 |     ______  __    __    ______   .______       _______       _______.    | F   | F  | Gm  | Am  | Bb | C  | Dm  | Edim  |  | Fm  | Fm  | Gdim  | Ab  | Bbm | Cm  | Db  | Eb |                   |
-|    /      ||  |  |  |  /  __  \  |   _  \     |       \     /       |    | Gb  | Gb | Abm | Bbm | Cb | Db | Ebm | Fdim  |  | F#m | F#m | G#dim | A   | Bm  | C#m | D   | E  |                   |
+|    /      ||  |  |  |  /  __  \  |   _  \     |       \     /       |    | Gb  | Gb | Abm | Bbm | Cb | Db | Ebm | Fdim  |  | Gbm | Gbm | Abdim | A   | Bm  | Dbm | D   | E  |                   |
 |   |  ,----'|  |__|  | |  |  |  | |  |_)  |    |  .--.  |   |   (----`    | G   | G  | Am  | Bm  | C  | D  | Em  | Gbdim |  | Gm  | Gm  | Adim  | Bb  | Cm  | Dm  | Eb  | F  |                   |
-|   |  |     |   __   | |  |  |  | |      /     |  |  |  |    \   \        | Ab  | Ab | Bbm | Cm  | Db | Eb | Fm  | Gdim  |  | G#m | G#m | A#dim | B   | C#m | D#m | E   | F# |                   |
-|   |  `----.|  |  |  | |  `--'  | |  |\  \----.|  '--'  |.----)   |       | A   | A  | Bm  | C#m | D  | E  | F#m | Abdim |  | Am  | Am  | Bdim  | C   | Dm  | Em  | F   | G  |                   |
+|   |  |     |   __   | |  |  |  | |      /     |  |  |  |    \   \        | Ab  | Ab | Bbm | Cm  | Db | Eb | Fm  | Gdim  |  | Abm | Abm | Bbdim | B   | Dbm | Ebm | E   | Gb |                   |
+|   |  `----.|  |  |  | |  `--'  | |  |\  \----.|  '--'  |.----)   |       | A   | A  | Bm  | Dbm | D  | E  | Gbm | Abdim |  | Am  | Am  | Bdim  | C   | Dm  | Em  | F   | G  |                   |
 |    \______||__|  |__|  \______/  | _| `._____||_______/ |_______/        | Bb  | Bb | Cm  | Dm  | Eb | F  | Gm  | Adim  |  | Bbm | Bbm | Cdim  | Db  | Ebm | Fm  | Gb  | Ab |                   |
-|                                                                          | B   | B  | C#m | D#m | E  | F# | G#m | Bbdim |  | Bm  | Bm  | C#dim | D   | Em  | F#m | G   | A  |                   |
+|                                                                          | B   | B  | Dbm | Ebm | E  | Gb | Abm | Bbdim |  | Bm  | Bm  | Dbdim | D   | Em  | Gbm | G   | A  |                   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  C               C#/Db           D               D#/Eb           E               F               F#/Gb           G               G#/Ab           A               A#/Bb           B              |
 |  O O O                                 O                                     O     O   O                         O                                   O O     O                                  |
